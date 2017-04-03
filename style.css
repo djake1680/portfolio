@@ -211,4 +211,20 @@ section {
     color: white;
 }
 
+#contact-me {
+    color: cornflowerblue;
+}
+
+#contact-me img {
+    padding: 5px;
+}
+
+.nhra_logo img {
+    margin: auto;
+    width: 80%;
+}
+
+.work_details p {
+    color: white;
+}
 
