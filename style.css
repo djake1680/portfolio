@@ -204,7 +204,7 @@ section {
 }
 
 #portfolio {
-    background-color: #3D555D;
+    background-color: #77a5b6;
 }
 
 .project_page {
@@ -228,3 +228,7 @@ section {
     color: white;
 }
 
+.experience-img {
+    margin: 0 auto;
+    border-radius: 12px;
+}
