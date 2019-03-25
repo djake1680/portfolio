@@ -203,8 +203,18 @@ section {
     margin-top: 15px;
 }
 
+#about {
+    background-color: #FAFAFA;
+    color: #77a5b6;
+}
+
+#about-image {
+    border-radius: 12px;
+}
+
 #portfolio {
-    background-color: #77a5b6;
+    /*background-color: #77a5b6;*/
+    background-color: #FAFAFA;
 }
 
 .project_page {
