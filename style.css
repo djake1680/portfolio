@@ -204,21 +204,26 @@ section {
 }
 
 #about {
-    background-color: #FAFAFA;
-    color: #77a5b6;
+    background-color: #E9EBEE;
+    color: #6e98a8;
 }
 
 #about-image {
     border-radius: 12px;
+    height: 100%;
 }
 
 #portfolio {
     /*background-color: #77a5b6;*/
-    background-color: #FAFAFA;
+    background-color: #E9EBEE;
+}
+
+.service-box img {
+    width: 128px;
 }
 
 .project_page {
-    color: white;
+    color: rgba(240,95,64,.9);
 }
 
 #contact-me {
